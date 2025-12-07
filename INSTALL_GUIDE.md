@@ -51,26 +51,25 @@ resourcepacks/
 
 #### 3-1. kubejsフォルダのコピー
 
-1. 解凍したフォルダの `kubejs` フォルダを開く
-2. 中身をすべてコピー
-3. Minecraftインスタンスフォルダの `kubejs` フォルダに**マージ**（上書き）
+1. 解凍したフォルダの `kubejs` フォルダをMinecraftインスタンスフォルダにコピー  
+　（既存の`kubejs` フォルダに**マージ**）
 
 #### 3-2. resourcepacksフォルダのコピー
 
-1. 解凍したフォルダの `resourcepacks` フォルダを開く
-2. `MyJPpack` フォルダをコピー
-3. Minecraftインスタンスフォルダの `resourcepacks` フォルダに貼り付け
+1. 解凍したフォルダの `resourcepacks` をMinecraftインスタンスフォルダにコピー  
+　（既存の`resourcepacks` フォルダに**マージ**）
 
 最終的に以下のようになります:
 ```
-<Minecraftインスタンスフォルダ>/
-├── kubejs/
-│   └── assets/
-│       └── <mod_id>/
-│           └── lang/
-│               └── ja_jp.json ← MOD翻訳ファイル
-└── resourcepacks/
-    └── MyJPpack/ ← 日本語化リソースパック
+instances/
+└ FTB StoneBlock 3/
+    ├─ kubejs/
+    │   └─ assets/
+    │       └─ <mod_id>/
+    │           └─ lang/
+    │               └── ja_jp.json ← MOD翻訳ファイル
+    └─ resourcepacks/
+         └─ MyJPpack/ ← 日本語化リソースパック
 ```
 
 ### ステップ4: リソースパックの有効化

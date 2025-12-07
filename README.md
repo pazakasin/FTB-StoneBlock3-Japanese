@@ -23,9 +23,8 @@ FTB StoneBlock 3の日本語翻訳ファイルを提供するプロジェクト�
 3. 以下のフォルダを、Minecraftインスタンスフォルダにコピーまたはマージ
    ```
    解凍したフォルダ → Minecraftインスタンスフォルダ
-   ├── config/         → .minecraft/config/
-   ├── kubejs/         → .minecraft/kubejs/
-   └── resourcepacks/  → .minecraft/resourcepacks/
+   ├── kubejs/         → .instances/FTB StoneBlock 3/kubejs/
+   └── resourcepacks/  → .instances/FTB StoneBlock 3/resourcepacks/
    ```
 
 4. Minecraftを起動し、「設定」→「リソースパック」から「MyJPpack」を有効化
