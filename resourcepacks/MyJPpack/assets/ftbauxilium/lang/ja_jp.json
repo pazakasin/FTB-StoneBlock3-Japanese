@@ -1,0 +1,15 @@
+{
+  "ftbauxilium.what-is": "FTB Auxiliumは、少量の統計情報をFTB統計サーバーに送信する軽量MODです。この情報は、プレイヤーにとって最適な方向へパック開発を進めるために活用しています。",
+  "ftbauxilium.what-info": "Auxilum は、基本的な、完全に匿名のデータのみを報告します。現在のところ、ロード時間、プレイ中のパック、クラッシュログ、プレイ時間、パックの起動に使用したランチャーについて報告します。",
+  "ftbauxilium.opt-out": "この匿名情報をFTBに送信したくない場合は、下のボタンからオプトアウトできます。これにより、Auxiliumを使用したすべてのFTBパックからオプトアウトされます。",
+  "ftbauxilium.heading-what-is": "FTB Auxiliumとは何ですか？",
+  "ftbauxilium.heading-what-info": "何を送っているのでしょうか?",
+  "ftbauxilium.heading-opt-out": "身を引く？",
+  "ftbauxilium.heading-opt-in": "すでにオプトアウトしているようです",
+  "ftbauxilium.opt-in": "Auxilium統計システムへの再登録をご希望の場合は、下のボタンを押してください。",
+  "ftbauxilium.btn.opt-out": "身を引く",
+  "ftbauxilium.btn-opt-in": "再度参加する",
+  "ftbauxilium.btn-cancel": "キャンセル",
+  "ftbauxilium.msg.opted-out": "オプトアウトされました。",
+  "ftbauxilium.msg.opted-in": "再度オプトインされました。"
+}

@@ -1,0 +1,10 @@
+{
+  "trashslot.serverNotInstalled": "サーバーにTrashSlotがインストールされていません。このMODは無効になります。",
+  "key.trashslot.toggle": "ゴミ箱スロットの表示/非表示",
+  "key.trashslot.delete": "アイテムを削除",
+  "key.trashslot.deleteAll": "タイプのすべてのアイテムを削除",
+  "key.categories.trashslot": "ゴミ箱",
+  "trashslot.config.instantDeletion": "即時削除",
+  "text.autoconfig.trashslot.title": "ゴミ箱",
+  "text.autoconfig.trashslot.option.instantDeletion": "即時削除"
+}

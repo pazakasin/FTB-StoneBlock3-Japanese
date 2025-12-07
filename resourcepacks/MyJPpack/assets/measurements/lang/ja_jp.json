@@ -1,0 +1,10 @@
+{
+  "_comment": "布構成",
+  "item.measurements.tape_measure": "巻尺",
+  "text.autoconfig.measurements.option.client": "クライアント",
+  "text.autoconfig.measurements.option.client.lineColor": "線の色",
+  "text.autoconfig.measurements.option.client.textColor": "テキストの色",
+  "text.autoconfig.measurements.option.client.textSize": "テキストサイズ",
+  "text.autoconfig.measurements.option.client.lineWidth": "線幅",
+  "text.autoconfig.measurements.option.client.lineWidthMax": "最大線幅"
+}

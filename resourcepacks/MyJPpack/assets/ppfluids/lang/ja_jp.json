@@ -1,0 +1,19 @@
+{
+  "block.ppfluids.fluid_pipe": "流体パイプ",
+  "item.ppfluids.fluid_item": "液体容器",
+  "item.ppfluids.low_fluid_extraction_module": "低流体抽出モジュール",
+  "item.ppfluids.medium_fluid_extraction_module": "中液抽出モジュール",
+  "item.ppfluids.high_fluid_extraction_module": "高流体抽出モジュール",
+  "item.ppfluids.low_fluid_filter_module": "低液量フィルターモジュール",
+  "item.ppfluids.medium_fluid_filter_module": "中流体フィルターモジュール",
+  "item.ppfluids.high_fluid_filter_module": "高流体フィルターモジュール",
+  "item.ppfluids.low_fluid_retrieval_module": "低液量回収モジュール",
+  "item.ppfluids.medium_fluid_retrieval_module": "中液回収モジュール",
+  "item.ppfluids.high_fluid_retrieval_module": "高流体回収モジュール",
+  "info.prettypipes.fluid_extraction_module": "隣接するインベントリから液体を引き出します\nフィルターと引き出し速度はティアによって異なります\n上位ティアでは過剰な送信を防止します",
+  "info.prettypipes.fluid_filter_module": "パイプから隣接するタンクへの流れを制限します\nフィルターの量は段階によって異なります",
+  "info.prettypipes.fluid_retrieval_module": "ネットワーク内の他のタンクから液体を抜き取ります\nフィルターと抜き取り速度はTierによって異なります\n上位Tierでは過剰送液を防ぎます",
+  "info.ppfluids.fluid_item.usage": "液体タンクに私を使用して、内容物を入力してください。",
+  "info.ppfluids.whitelist.description": "フィルタースロット内の液体は許可されています",
+  "info.ppfluids.blacklist.description": "フィルタースロット内の液体は禁止されています"
+}

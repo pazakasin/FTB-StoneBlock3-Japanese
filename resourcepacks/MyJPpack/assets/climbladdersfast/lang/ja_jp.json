@@ -1,0 +1,8 @@
+{
+  "text.autoconfig.climbladdersfast.option.climbUpSpeed": "上昇速度",
+  "text.autoconfig.climbladdersfast.option.climbDownSpeed": "降下速度",
+  "text.autoconfig.climbladdersfast.option.disableScaffoldingFastClimbing": "足場を無効にして高速登り",
+  "text.autoconfig.climbladdersfast.option.disableScaffoldingCollision": "足場衝突を無効にする",
+  "text.autoconfig.climbladdersfast.option.disableVinesFastClimbing": "ツタの高速登りを無効にする",
+  "text.autoconfig.climbladdersfast.title": "はしごを速く登る"
+}

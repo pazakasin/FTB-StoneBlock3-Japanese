@@ -1,0 +1,12 @@
+{
+  "block.autosmithingtable.auto_smithing_table": "鍛冶台（自動）",
+  "item.autosmithingtable.auto_smithing_table": "鍛冶台（自動）",
+  "container.autosmithingtable.title": "アイテムのアップグレード（自動）",
+  "itemGroup.autosmithingtable": "自動鍛冶台",
+  "message.autosmithingtable.change_side_to_0": "[§eAutoSmithingTable§r] §bSide を次のように変更しました: なし",
+  "message.autosmithingtable.change_side_to_1": "[§eAutoSmithingTable§r] §bSide を次のように変更しました: Input Base",
+  "message.autosmithingtable.change_side_to_2": "[§eAutoSmithingTable§r] §bSide を次のように変更しました: 入力の追加",
+  "message.autosmithingtable.change_side_to_3": "[§eAutoSmithingTable§r] §bSide を次のように変更しました: 出力",
+  "tooltip.autosmithingtable.sides": "[Shift + R-クリック]で側面を設定",
+  "tooltip.autosmithingtable.jade_progress": "進捗状況: %d"
+}

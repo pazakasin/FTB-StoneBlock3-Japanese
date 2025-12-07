@@ -1,0 +1,16 @@
+{
+  "config.betterthanbunnies.cat.general.name": "一般的な設定",
+  "config.betterthanbunnies.cat.general.desc": "他のカテゴリに当てはまらない一般的な構成。",
+  "config.betterthanbunnies.cat.outfit.name": "衣装構成",
+  "config.betterthanbunnies.cat.outfit.desc": "衣装を着ているウサギに関する設定。",
+  "config.betterthanbunnies.prop.fancyChance.name": "ファンシーバニーチャンス",
+  "config.betterthanbunnies.prop.fancyChance.desc": "ウサギが衣装の一部を着ている確率（%、0～100）",
+  "config.betterthanbunnies.prop.hatChance.name": "ハットチャンス",
+  "config.betterthanbunnies.prop.hatChance.desc": "ウサギが衣装に帽子をかぶっている確率（%、0～100）",
+  "config.betterthanbunnies.prop.monocleChance.name": "モノクルチャンス",
+  "config.betterthanbunnies.prop.monocleChance.desc": "ウサギが衣装に片眼鏡を着用している確率（%、0～100）",
+  "config.betterthanbunnies.prop.pipeChance.name": "パイプチャンス",
+  "config.betterthanbunnies.prop.pipeChance.desc": "ウサギの衣装にパイプが入っている確率（%、0～100）",
+  "config.betterthanbunnies.prop.suitChance.name": "スーツチャンス",
+  "config.betterthanbunnies.prop.suitChance.desc": "ウサギが衣装にスーツを着ている確率（%、0～100）"
+}

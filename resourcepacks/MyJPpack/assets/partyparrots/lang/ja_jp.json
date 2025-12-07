@@ -1,0 +1,14 @@
+{
+  "config.partyparrots.prop.partyShoulder.name": "パーティー - 肩",
+  "config.partyparrots.prop.partyShoulder.desc": "オウムは肩に乗っているときパーティーをするのでしょうか?",
+  "config.partyparrots.prop.partyFlying.name": "パーティー - 飛行",
+  "config.partyparrots.prop.partyFlying.desc": "オウムは飛んでいるときにパーティーをするのでしょうか?",
+  "config.partyparrots.prop.partyStanding.name": "パーティー - スタンディング",
+  "config.partyparrots.prop.partyStanding.desc": "オウムは立っているときパーティーをしているのでしょうか?",
+  "config.partyparrots.prop.partySitting.name": "パーティー - 着席",
+  "config.partyparrots.prop.partySitting.desc": "オウムは座っているときにパーティーをするのでしょうか?",
+  "config.partyparrots.prop.partyTwerk.name": "パーティー - トゥワーク",
+  "config.partyparrots.prop.partyTwerk.desc": "プレイヤーがトゥワークするとオウムはパーティーをするのでしょうか?",
+  "config.partyparrots.prop.partyTwerkRange.name": "パーティー - トゥワークレンジ",
+  "config.partyparrots.prop.partyTwerkRange.desc": "オウムがパーティーをするには、プレイヤーはどの程度トゥワークを踊らなければならないのでしょうか?"
+}

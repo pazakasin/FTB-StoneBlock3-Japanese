@@ -1,0 +1,22 @@
+{
+  "_comment": "キーバインド",
+  "itemGroup.structurecompass": "構造コンパス",
+  "structurecompass.screen.selection.title": "構造選択",
+  "structurecompass.screen.selection.select": "選択",
+  "structurecompass.screen.search": "検索",
+  "structurecompass.screen.search.a_to_z": "A-Z",
+  "structurecompass.screen.search.z_to_a": "Z-A",
+  "item.structurecompass.structure_compass": "構造コンパス",
+  "structurecompass.locate.invalid": "バインドされた構造が無効です。再バインドしてください。",
+  "structurecompass.locate.fail": "境界構造は近くに見つかりませんでした",
+  "structurecompass.locate.distance": "境界構造は %s ブロック離れています",
+  "structurecompass.locate.toggled": "構造コンパス HUD が %s に切り替わりました",
+  "structurecompass.structure.found": "%s は %s ブロック離れた場所にあり、コンパスはその構造物の方向を指しています",
+  "structurecompass.structure.found.tooltip": "%s が発見されました。コンパスは構造物の方向を指しています。",
+  "structurecompass.structure.failed": "%s が見つかりません。しばらくしてからもう一度お試しください。",
+  "structurecompass.structure.failed.tooltip": "%s が見つかりません。しばらくしてからもう一度お試しください。",
+  "structurecompass.structure.wrong_dimension.tooltip": "あなたは %s が見つかった次元にいません",
+  "structurecompass.structure.unset.tooltip": "構造が設定されていません。Shiftキーを押しながら右クリックして構造を選択してください。",
+  "category.structurecompass.main": "構造コンパス",
+  "key.structurecompass.hide": "構造コンパスHUDを非表示にする"
+}

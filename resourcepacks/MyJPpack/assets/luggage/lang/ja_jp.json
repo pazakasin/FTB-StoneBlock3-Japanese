@@ -1,0 +1,11 @@
+{
+  "entity.luggage.luggage": "荷物",
+  "item.luggage.luggage": "荷物",
+  "keybind.luggage.wait": "近くの荷物を待たせる",
+  "keybind.luggage.call": "荷物の受け取り",
+  "subtitles.luggage.entity.luggage.killed": "荷物が割れる",
+  "subtitles.luggage.entity.luggage.eat_food": "荷物が食べ物を食べる",
+  "subtitles.luggage.entity.luggage.eat_item": "荷物がアイテムを食べる",
+  "subtitles.luggage.entity.player.whistle_call": "プレイヤーは静かに口笛を吹く",
+  "subtitles.luggage.entity.player.whistle_wait": "プレイヤーは鋭く口笛を吹く"
+}
