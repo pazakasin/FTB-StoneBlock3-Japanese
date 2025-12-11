@@ -15,7 +15,7 @@
 
 以下を行う必要があります:
 1. **適切なクレジットの表示**
-   - 例: 「日本語翻訳: FTB StoneBlock 3 日本語化プロジェクト（https://github.com/pazakasin/MinecraftModpackTranslator）」
+   - 例: 「日本語翻訳: FTB StoneBlock 3 日本語化プロジェクト（https://github.com/pazakasin/FTB-StoneBlock3-Japanese）」
 2. **ライセンスへのリンク**
    - https://creativecommons.org/licenses/by/4.0/
 3. **変更を加えた場合、その旨を表示**
